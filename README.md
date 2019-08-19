@@ -1,2 +1,9 @@
 # Ratatouille
-Ratatouille: Aplicación movil para el contacto de chefs con el público para el alquier de servicios de preparación de comidas en casa.
+Ratatouille: Aplicación movil para el contacto de chefs con el público para el alquier de servicios de preparación de comidas en casa o la reserva en restaurantes de la ciudad.
+
+Objetivo: Realizar una aplicación nativa en Android (Java) para cumplir con la propuesta de Ratatouille 
+
+Plataforma: Android (Java) 
+
+IDE: Android Studio
+
