@@ -15,8 +15,8 @@ _Este proyecto esta bajo la licencia MIT - mirar el documento [LICENSE](LICENSE)
 
 _This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details._
 ### Estructura GitHub
-* Carpeta Ratatouille: Carpeta en la que se encuentra todo lo correspondiente al código del proyecto.
-* Carpeta Ratatouille Docs: Carpeta en la que se encuentra todos los documentos extras para el desarrollo de la aplicación Ratatouille. 
+* Carpeta [Code](Code): Carpeta en la que se encuentra todo lo correspondiente al código del proyecto.
+* Carpeta [Docs](Docs): Carpeta en la que se encuentra todos los documentos extras para el desarrollo de la aplicación Ratatouille. 
 
 ### Autores 
 * ***Alejandro Castro*** : [kstro96](https://github.com/kstro96)
