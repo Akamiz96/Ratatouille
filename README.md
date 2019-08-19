@@ -14,10 +14,13 @@ Android (Java)
 _Este proyecto esta bajo la licencia MIT - mirar el documento [LICENSE](LICENSE) para detalles._
 
 _This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details._
+### Estructura GitHub
+* Carpeta Ratatouille: Carpeta en la que se encuentra todo lo correspondiente al código del proyecto.
+* Carpeta Ratatouille Docs: Carpeta en la que se encuentra todos los documentos extras para el desarrollo de la aplicación Ratatouille. 
 
 ### Autores 
-* ***Alejandro Castro***(https://github.com/kstro96)
-* ***Abel Cortés***
-* ***Sebastián Osorio***
-* ***Edwin Turizo***(https://github.com/proyeckt)
-* ***Pablo Pulido***
+* ***Alejandro Castro*** : [kstro96](https://github.com/kstro96)
+* ***Abel Cortés*** : [abelsantiagocortes](https://github.com/abelsantiagocortes)
+* ***Sebastián Osorio*** : [JuanSebastianOG](https://github.com/JuanSebastianOG)
+* ***Edwin Turizo*** : [proyeckt](https://github.com/proyeckt)
+* ***Pablo Pulido*** : [pablopulido2](https://github.com/pablopulido2)
