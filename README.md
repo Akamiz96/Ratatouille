@@ -8,9 +8,10 @@ Realizar una aplicación nativa en Android (Java) para cumplir con la propuesta 
 Android (Java) 
 
 ### IDE: 
-* Android Studio (https://developer.android.com/studio/?gclid=CjwKCAjwkenqBRBgEiwA-bZVts4l8iiQxJvINkPdtvQyB4IUB-jKZT1NZGYJiG-U8M_MIkSO5m61fxoCYqQQAvD_BwE) - Ambiente de desarrollo integrado (IDE).
+* [Android Studio] (https://developer.android.com/studio/?gclid=CjwKCAjwkenqBRBgEiwA-bZVts4l8iiQxJvINkPdtvQyB4IUB-jKZT1NZGYJiG-U8M_MIkSO5m61fxoCYqQQAvD_BwE) - Ambiente de desarrollo integrado (IDE).
 
 ### License
 _Este proyecto esta bajo la licencia MIT - mirar el documento [LICENSE](LICENSE) para detalles._
+
 _This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details._
 
