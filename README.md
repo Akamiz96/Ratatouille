@@ -11,6 +11,6 @@ Android (Java)
 * Android Studio (https://developer.android.com/studio/?gclid=CjwKCAjwkenqBRBgEiwA-bZVts4l8iiQxJvINkPdtvQyB4IUB-jKZT1NZGYJiG-U8M_MIkSO5m61fxoCYqQQAvD_BwE) - Ambiente de desarrollo integrado (IDE).
 
 ## License
-Este proyecto esta bajo la licencia MIT - mirar el documento [LICENSE.md](LICENSE.md) para detalles. 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+Este proyecto esta bajo la licencia MIT - mirar el documento [LICENSE](LICENSE) para detalles. 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
