@@ -12,5 +12,12 @@ Android (Java)
 
 ### License
 _Este proyecto esta bajo la licencia MIT - mirar el documento [LICENSE](LICENSE) para detalles._
+
 _This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details._
 
+### Autores 
+* ***Alejandro Castro***(https://github.com/kstro96)
+* ***Abel Cortés***
+* ***Sebastián Osorio***
+* ***Edwin Turizo***(https://github.com/proyeckt)
+* ***Pablo Pulido***
