@@ -12,6 +12,5 @@ Android (Java)
 
 ### License
 _Este proyecto esta bajo la licencia MIT - mirar el documento [LICENSE](LICENSE) para detalles._
-
 _This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details._
 
