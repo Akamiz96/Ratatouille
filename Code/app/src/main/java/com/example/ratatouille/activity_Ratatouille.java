@@ -44,7 +44,7 @@ public class activity_Ratatouille extends AppCompatActivity {
                 finishProgress = true;
                 Log.i("Progreso","Terminado");
                 //TODO lanzar actividad de inicio.
-                
+
             }
         }).start();
     }
