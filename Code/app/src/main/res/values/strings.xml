@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Ratatouille</string>
+    <string name="titulo">Ratatouille</string>
+    <string name="name">name</string>
+    <string name="last_name">last name</string>
+    <string name="email">email</string>
+    <string name="next">next</string>
+    <string name="register">register</string>
+    <string name="featured_plates">featured plates</string>
+    <string name="location">location</string>
+    <string name="specialities">specialities</string>
+    <string name="pasta">Pasta</string>
+    <string name="hamburger">Hamburger</string>
+    <string name="dessert">Dessert</string>
 </resources>
